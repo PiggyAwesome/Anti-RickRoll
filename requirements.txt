@@ -1,0 +1,5 @@
+ImageHash
+Pillow
+numpy 
+opencv-python
+pytube
